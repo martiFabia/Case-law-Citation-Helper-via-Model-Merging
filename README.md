@@ -9,6 +9,14 @@ Instead of expensive multi-task full fine-tuning, the notebook relies on **Param
 
 ---
 
+> ⚠️ For full functionality, open it in Google Colab or JupyterLab.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19ak4mkeewvJXvX5pVrKCMrmHED32auY5)
+
+
+
+---
+
 ## 🛠️ What the notebook does
 
 ### 1) Environment setup (Colab-ready)
